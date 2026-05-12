@@ -1,2 +1,4 @@
-# Business Scenario 
-TechCare Solutions receives 200+ IT support requests weekly via email and phone. No centralised system exists, leading to missed SLAs, duplicated work and frustrated staff.
+## Business Scenario
+Contoso HR onboards 30+ employees monthly. IT setup, equipment issue and access provisioning are all tracked in spreadsheets. Tasks fall through the cracks and new starters arrive without access.
+
+## Business Problem
