@@ -38,3 +38,16 @@ On Approval, notification to sent to Admin Manager, Manager, Finance Department.
 
 On acceptance by Admin Manager, notification and data of new staff is sent to IT Administrators and as well required access (and in the required level)
 
+## Tables
+Onboarding Table
+
+Staff Table 
+
+Equipment Table
+
+Equipment Assignment Table
+
+Managers Table
+
+Task Table
+
