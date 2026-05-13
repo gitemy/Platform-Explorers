@@ -41,7 +41,7 @@ On acceptance by Admin Manager, notification and data of new staff is sent to IT
 ## Tables
 Onboarding Table
 
-Staff Table 
+Staff Table (Azure Active Directory)
 
 Equipment Table
 
