@@ -49,7 +49,87 @@ Equipment Assignment Table
 
 Managers Table
 
-Task Table
+## Columns
+
+### Onboarding Request
+
+OnboardingDate
+
+EnroleeID
+
+First Name
+
+Middle Name
+
+Last Name
+
+Gender
+
+Employment Type
+
+Department ID
+
+Grade Level
+
+Proposed Salary
+
+### Staff 
+
+StaffID
+
+First Name
+
+Middle Name
+
+LastName
+
+DepartmentID
+
+DateofEmployment
+
+EmploymentType
+
+### Assignment
+
+AssignmentDate
+
+AssignmentID
+
+EquipmentID
+
+StaffID
+
+Expected Return/Change Date
+
+### Managers
+
+ManagersID
+
+First Name
+
+LastName
+
+DepartmentID
+
+### Equipment
+
+Equipment id
+
+equipment name
+
+Brand name
+
+Model 
+
+Date Purchased
+
+Serial No
+
+### Department 
+
+Department_id
+
+Department
 
 
 
