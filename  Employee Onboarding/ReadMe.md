@@ -55,4 +55,3 @@ Task Table
 
 ## ERD DIAGRAM
 
-[!image alt](https://github.com/gitemy/Platform-Explorers/blob/master/Employee%20Enrollment.png)
