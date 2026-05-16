@@ -4,12 +4,11 @@ Contoso HR onboards 30+ employees monthly. IT setup, equipment issue and access 
 ## Business Problem
 - Manual onboarding leading to delays, inaccurate access and general poor onboarding processing. 
 
+- Employees arrive without or late system access or equipment
 
+- No centralized visibility into onboarding process.
 
-
-
-
-
+- Difficulty tracking SLA Compliance. 
 
 
 ## Roles in the Solution
@@ -23,8 +22,17 @@ IT Professional
 
 Managers
 
+## StakeHolders 
+
+HR Department 
+
+IT Department 
+
 ## Business Requirement
+
 Onboarding Process to be automated from end to end.
+
+HR officer must be able to create onboarding request. 
 
 Dashboard that allows HR Monitor and Manage onboarding process from stage to stage and also managers (to know when new employee is due for his first task)
 
@@ -37,6 +45,20 @@ Approval system for HR Head
 On Approval, notification to sent to Admin Manager, Manager, Finance Department.
 
 On acceptance by Admin Manager, notification and data of new staff is sent to IT Administrators and as well required access (and in the required level)
+
+## Acceptance Critera
+
+HR Officer should be able to create new employee onboarding request. 
+
+The system must store employee data
+
+HR and managers should be able to track onboarding process.
+
+System should allow for status update
+
+System should be able generate onboarding reports.
+
+IT Department, Admin and Finance Department must recieve notification on email on approval of the onboarding request by HR Head. 
 
 ## Tables
 Onboarding Table
@@ -136,3 +158,12 @@ Department
 ## ERD DIAGRAM
 
 ![image alt](https://github.com/gitemy/Platform-Explorers/blob/master/%20Employee%20Onboarding/Employee%20Enrollment.png)
+
+
+## POWER PLATFORM COMPONENTS 
+
+- Power Apps (Model Driven App)
+
+- Dataverse
+
+- Power Automate
